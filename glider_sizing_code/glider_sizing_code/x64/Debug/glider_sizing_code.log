@@ -1,18 +1,18 @@
 ﻿  glider_sizing_code.cpp
 C:\Users\track\source\repos\glider_sizing_code\glider_sizing_code\window setup.h(145,121): warning C4129: '^': unrecognized character escape sequence
-C:\Users\track\source\repos\glider_sizing_code\glider_sizing_code\glider_sizing_code.cpp(25,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\track\source\repos\glider_sizing_code\glider_sizing_code\glider_sizing_code.cpp(65,12): warning C4129: '^': unrecognized character escape sequence
-C:\Users\track\source\repos\glider_sizing_code\glider_sizing_code\glider_sizing_code.cpp(133,44): warning C4244: 'argument': conversion from 'unsigned __int64' to 'T', possible loss of data
+C:\Users\track\source\repos\glider_sizing_code\glider_sizing_code\glider_sizing_code.cpp(35,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\track\source\repos\glider_sizing_code\glider_sizing_code\glider_sizing_code.cpp(75,12): warning C4129: '^': unrecognized character escape sequence
+C:\Users\track\source\repos\glider_sizing_code\glider_sizing_code\glider_sizing_code.cpp(143,44): warning C4244: 'argument': conversion from 'unsigned __int64' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\track\source\repos\glider_sizing_code\glider_sizing_code\glider_sizing_code.cpp(149,66): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\track\source\repos\glider_sizing_code\glider_sizing_code\glider_sizing_code.cpp(159,66): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\track\source\repos\glider_sizing_code\glider_sizing_code\glider_sizing_code.cpp(149,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\track\source\repos\glider_sizing_code\glider_sizing_code\glider_sizing_code.cpp(159,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float

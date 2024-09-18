@@ -12,6 +12,16 @@ using namespace std;
 int main()
 {
 	//-------------; setup space
+	cout << "Use default? (1 = Y, 0 = N)" << endl;
+	bool check; cin >> check; if (!check) {
+		cout << "glide angle: ";
+		cin >> glide_angle;
+		cout << "drop height: ";
+		cin >> drop_height;
+		cout << "drop speed: ";
+		cin >> drop_speed;
+	}
+
 	sf::Font font;
 	if (!font.loadFromFile("arial.ttf"))
 	{cout << "failed to load font" << endl; exit(1);}
